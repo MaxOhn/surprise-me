@@ -1,0 +1,8 @@
+[package]
+name = "surprise-me-test"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+surprise-me = { path = "../surprise-me" }

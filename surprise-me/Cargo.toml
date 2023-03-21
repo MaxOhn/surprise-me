@@ -1,0 +1,9 @@
+[package]
+name = "surprise-me"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+rand = "0.8.5"
+surprise-me-derive = { path = "../surprise-me-derive" }

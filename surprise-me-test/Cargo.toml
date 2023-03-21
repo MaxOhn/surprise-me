@@ -1,8 +1,13 @@
 [package]
 name = "surprise-me-test"
 version.workspace = true
+authors.workspace = true
 edition.workspace = true
 license.workspace = true
+readme.workspace = true
+repository.workspace = true
+description.workspace = true
+keywords.workspace = true
 
 [dependencies]
 surprise-me = { path = "../surprise-me" }

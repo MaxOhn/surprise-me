@@ -7,5 +7,10 @@ members = [
 
 [workspace.package]
 version = "0.1.0"
+authors = ["MaxOhn <ohn.m@hotmail.de>"]
 edition = "2021"
 license = "MIT"
+readme = "README.md"
+repository = "https://github.com/MaxOhn/surprise-me"
+description = "Derive macro to generate random type instances"
+keywords = ["generate", "random", "gen", "rand", "rng", "surprise"]

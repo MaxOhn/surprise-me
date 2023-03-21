@@ -2,7 +2,7 @@
 
 Generating random type instances.
 
-[`Surprise`] is a simple trait whose sole purpose is to generate random things.
+`Surprise` is a simple trait whose sole purpose is to generate random things.
 
 If you need a more sophisticated approach to prop testing and the like, check out [proptest](https://docs.rs/proptest/latest) and [quicktest](https://docs.rs/quickcheck/latest).
 
